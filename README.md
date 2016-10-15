@@ -1,0 +1,2 @@
+# NxtLife
+sample angularjs application
